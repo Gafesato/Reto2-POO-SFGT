@@ -19,7 +19,7 @@ El sistema modela un mercado financiero con clases para Bolsa, Participantes (Tr
 
 Comencé diciendo que solo incluiría el Mercado Forex como un tipo de Mercado, pero terminé generalizando, ya que crear una estructura tan jerarquizada no conviene por la extensión del ejercicio.
 
-[Descargar el PDF original](./UML.pdf)
+[Ver el PDF original](./UML.pdf)
 
 ---
 
